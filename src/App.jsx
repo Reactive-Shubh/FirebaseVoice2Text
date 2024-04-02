@@ -19,7 +19,7 @@ const App = () => {
   return (
     <>
       <div className="container">
-        <h2>Speech to Text Converter</h2>
+        <h2>Voice to Text Converter</h2>
         <br />
         <p>Microphone: {listening ? "on" : "off"}</p>
 
